@@ -20,6 +20,8 @@ I'm also an active member of the GHOST scientific club at Politechnika Poznańsk
 - Advanced optimization techniques
 - React
 
+#### Also, I am a huge fan of chickens and ducks 🐔🦆❤️
+
 
 <!--
 **mmartyna123/mmartyna123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
