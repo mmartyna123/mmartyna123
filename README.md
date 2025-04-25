@@ -1,9 +1,9 @@
 ## Hi, I'm Martyna ✨
-I'm a student at Poznań University of Technology 🇵🇱 and a tech enthusiast who enjoys building fun and functional tools — especially when it comes to machine learning, data analysis, and making GUIs actually look good ✨
+I'm a student at Poznań University of Technology 🇵🇱 and a tech enthusiast who enjoys building fun and functional tools — especially when it comes to machine learning, deep learning, data analysis, computer vision and making GUIs actually look good ✨
 
 I'm also an active member of the GHOST scientific club at Politechnika Poznańska, where I lead two sections:
 - 💡 Intro to ML – teaching fellow students the basics of machine learning and data analysis
-- 🚀 ML Next Step – diving deeper into topics like deep learning, natural language processing (NLP), and computer vision (CV)<br>
+- 🚀 ML Next Step – diving deeper into topics like deep learning (DL), natural language processing (NLP), and computer vision (CV)<br>
 
 ### 📍🗺️ *Poznań, Poland*
 ----
